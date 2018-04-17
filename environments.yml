@@ -1,4 +1,4 @@
-name: car-behavioral-cloning
+name: keras
 channels:
     - https://conda.anaconda.org/menpo
     - conda-forge
